@@ -20,7 +20,7 @@ https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/List.html
 Volgens de JavaDoc: _"Sorts this list according to the order induced by the specified Comparator"_
 
 ### Comparator
-`Comparator` is een interface waarbij je de methode `compare(T,T)` kan overschrijven: 
+`Comparator` is een interface waarbij je de methode `compare(T,T)` kan implementeren: 
 
 https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/util/Comparator.html
 
